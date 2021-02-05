@@ -1,0 +1,11 @@
+.image-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-item {
+    border: 1px solid #cccccc;
+    background-color: #ffffff;
+    padding: 5px;
+}
